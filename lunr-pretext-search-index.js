@@ -16,7 +16,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Section title",
-  "body": " Section title  Hello  "
+  "body": " Section title  Hello   Two Sage plots on one set of axes, hi mom      "
+},
+{
+  "id": "figure-sage-double-plot",
+  "level": "2",
+  "url": "section-title.html#figure-sage-double-plot",
+  "type": "Figure",
+  "number": "1.1.1",
+  "title": "",
+  "body": " Two Sage plots on one set of axes, hi mom     "
 },
 {
   "id": "colophon-2",
