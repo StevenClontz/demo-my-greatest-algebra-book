@@ -13,7 +13,7 @@
 
   <book xml:id="my-great-book">
     <title>Demo: My Greatest Algebra Book</title>
-    <subtitle>An example to get you started with algebra</subtitle>
+    <subtitle>An easy example to get you started with algebra</subtitle>
 
     <frontmatter xml:id="frontmatter">
       <titlepage>
